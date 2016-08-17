@@ -33,3 +33,8 @@ git diff --name-only | uniq | xargs $EDITOR
 ```sh
 git log --follow -p -- <file_path>
 ```
+
+## Edit commit name
+```sh
+git commit --amend -m "<new-commit-message>"
+```
