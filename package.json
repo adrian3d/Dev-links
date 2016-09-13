@@ -1,5 +1,5 @@
 {
-  "name": "cinemur-vr-2",
+  "name": "front-workflow",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -30,12 +30,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CINEMUR/cinemur-vr-site.git"
+    "url": "git+https://github.com:adrian3d/Web-Dev-Tips.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CINEMUR/cinemur-vr-site/issues"
+    "url": "https://github.com/adrian3d/Web-Dev-Tips/issues"
   },
-  "homepage": "https://github.com/CINEMUR/cinemur-vr-site#readme"
+  "homepage": "https://github.com/adrian3d/Web-Dev-Tips#readme"
 }
